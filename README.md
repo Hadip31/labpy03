@@ -115,7 +115,7 @@ digunakan untuk menghentikan proses perulangan jika kondisi yang kita inginkan t
 
 Berikut hasil screenshot program Latihan2
 
-![latihan2]()
+![latihan2](https://raw.githubusercontent.com/Hadip31/labpy03/master/latihan2.PNG)
 
 ## Program1
 
@@ -163,3 +163,5 @@ digunakan untuk membuat baris baru lalu mengakumulasikan hasil dari statement if
 Berikut hasil screenshot program1
 
 ![program1](https://raw.githubusercontent.com/Hadip31/labpy03/master/program1.PNG)
+
+# SELESAI
